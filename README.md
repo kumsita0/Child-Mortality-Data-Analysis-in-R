@@ -58,10 +58,11 @@ Child-Mortality-Data-Analysis/
 │   └── child_mortality_analysis.R
 │
 ├── output/
-│   ├── mortality_long.rds
-│   └── child_mortality_report.html
+│   └── mortality_long.rds
+│   
 │
 ├── child_mortality_report.Rmd
+└── child_mortality_report.html
 ├── ChildMortality.Rproj
 ├── README.md
 └── .gitignore
